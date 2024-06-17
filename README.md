@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Aditya, a student at UCSD and an incoming intern at the Department of Defense.
+I'm Aditya, a student at UCSD and intern at the Department of Defense.
 
 I’m currently building in the AI space. I co-built CallToChange, an award-winning AI infrastructure app. I also built ucsdGPT, a RAG app used 2000+ times by UCSD students.
 
