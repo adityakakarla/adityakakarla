@@ -5,7 +5,7 @@ I'm Aditya, a data science student at UCSD.
 I'm currently working on using LLMs to automate bioinformatics data pipelines at UCSD Med School's Mesirov Lab.
 
 **Projects**
-1. I co-built CallToChange, an AI infrastructure app. My friends and I won 1st place in the sustainability track at LA Hacks with this project.
+1. I co-built CallToChange, an AI infrastructure app. My friends and I won 1st place in the sustainability track at LA Hacks.
 2. I also built ucsdGPT, a RAG app used 2000+ times by UCSD students.
 
 **Technical Experience**
