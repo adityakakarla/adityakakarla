@@ -10,7 +10,7 @@ I'm currently working on using LLMs to automate bioinformatics data pipelines at
 
 **Technical Experience**
 1. Software Engineer Intern at Mesirov Lab (Sep 2024—Present)
-2. Software Engineer Intern at EyePop.ai (Jun 2024-Aug 2024)
+2. Software Engineer Intern at EyePop.ai (Jun 2024—Aug 2024)
 3. Software Engineer Intern at United States Department of Defense (Jun 2024—Aug 2024)
 4. Data Engineer Intern at United States Department of Agriculture (Sep 2023—May 2024)
 5. Software Engineer Intern at incy.ai (Jul 2023—Nov 2023)
