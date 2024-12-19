@@ -18,5 +18,3 @@ I'm currently working on using LLMs to automate bioinformatics data pipelines at
 1. Been writing a sponsored newsletter since high school
 2. Managed $800k/year in ad spend from 10th-12th grade
 3. Eagle Scout
-
-Current Tech Stack: Svelte + Go
