@@ -5,7 +5,7 @@ I'm Aditya, a data science student at UCSD.
 I'm currently working on using LLMs to automate bioinformatics data pipelines at UCSD Med School's Mesirov Lab.
 
 **Projects**
-1. I co-built CallToChange, a CO2 emissions logger (Python library + Next.js web app) for AI devs. Won 1st place in the "green" track at LA Hacks.
+1. I co-built CallToChange, a CO2 emissions logger (Python library + Next.js web app) for AI devs. Won 1st place in the "green" track at LA Hacks. I worked on frontend, backend, Python library, and the blockchain integration.
 2. I also built ucsdGPT, a RAG app used 2000+ times by UCSD students.
 
 **Technical Experience**
