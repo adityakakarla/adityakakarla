@@ -2,7 +2,7 @@
 
 I'm Aditya, a data science student at UCSD.
 
-I'm currently working on using LLMs to automate bioinformatics data pipelines at UCSD Med School's Mesirov Lab.
+I'm currently build AI agents at Cadre.
 
 **Technical Experience**
 1. Software Engineer Intern at Mesirov Lab (Sep 2024—Present)
