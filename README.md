@@ -1,1 +1,4 @@
-Studying data science at UCSD
+Currently:
+1. Studying data science at UCSD
+2. Interning at Palantir
+3. Tinkering with Rust
