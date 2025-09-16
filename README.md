@@ -4,4 +4,4 @@ At the moment, I am:
 
 Currently vibe-coding in Washington, DC, where it's a nice 72°
 
-![Location image](https://images.unsplash.com/photo-1650248801355-35f8a7235f8c?ixid=M3w0NjQ5NTB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc5ODkwNjd8&ixlib=rb-4.1.0)
+![Location image](https://images.unsplash.com/photo-1630882462051-711c10b9bd3c?ixid=M3w0NjQ5NTB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc5ODkwNzl8&ixlib=rb-4.1.0)
