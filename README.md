@@ -2,7 +2,9 @@ At the moment, I am:
 1. Studying data science at UCSD
 2. Interning at Palantir
 fsdfd
-3. test
+f
+4. test
+5. fsdfsdf
 
 Currently vibe-coding in Washington, DC, where it's a nice 72°
 
