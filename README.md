@@ -6,6 +6,7 @@ At the moment, I am:
 Past Projects:
 - [Audio Visualizer](https://github.com/adityakakarla/audio-visualizer) - Rust CLI tool to visualize audio levels instantaneously
 - [Video-to-ASCII](https://github.com/adityakakarla/video-to-ascii) - Rust CLI tool to play videos in your terminal
+- [DSC Copilot](https://github.com/adityakakarla/dsc-copilot) - Think v0/Lovable/Bolt but for data science students at UCSD
 - [Krait](https://github.com/adityakakarla/krait) - A Go CLI tool to generate Go CLI tools. Think Claude Code/Codex for CLIs (before Claude Code/Codex existed)
 - [Call To Change](https://github.com/adityakakarla/krait) - Python observability library to track your CO2 emissions based on LLM calls
 - [auto-commit](https://github.com/adityakakarla/auto-commit) - Go CLI tool to automatically create commits in your Github profile
