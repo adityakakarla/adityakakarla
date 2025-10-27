@@ -14,3 +14,5 @@ Past Projects:
 - [ucsdGPT](https://github.com/adityakakarla/ucsd-chatbot) - Course catalog chatbot to help UCSD students find cool classes. Built with Next.js
 - [InternPilot](https://github.com/adityakakarla/internpilot) - Semantic search tool to help students find internships at YC startups
 - [Hackathons FYI](https://github.com/adityakakarla/hackathons-fyi) - A semantic search tool to find award-winning hackathon projects
+- [F1 Alexa Skill](https://github.com/adityakakarla/formula1-alexa-skill) - An Alexa skill to get upcoming F1 race information
+- [Focus Tracker](https://github.com/adityakakarla/focus-tracker) - Uses a finetuned YOLOv5 model to yell at you when you're distracted
