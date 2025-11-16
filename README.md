@@ -6,6 +6,7 @@ At the moment, I am:
 Past Projects:
 - [Audio Visualizer](https://github.com/adityakakarla/audio-visualizer) - Rust CLI tool to visualize audio levels instantaneously
 - [Video-to-ASCII](https://github.com/adityakakarla/video-to-ascii) - Rust CLI tool to play videos in your terminal
+- [Audio Brightness Thing](https://github.com/adityakakarla/audio-brightness/tree/main) - Adjusts your brightness to match microphone levels
 - [DSC Copilot](https://github.com/adityakakarla/dsc-copilot) - Think v0/Lovable/Bolt but for data science students at UCSD
 - [Map Use](https://github.com/adityakakarla/mapping-agent) - Cursor for geospatial analysis
 - [fedlevels.fyi](https://github.com/adityakakarla/fedlevels) - levels.fyi, but for government employees and contractors
