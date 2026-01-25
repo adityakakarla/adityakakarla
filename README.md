@@ -1,5 +1,5 @@
 At the moment, I am:
-1. Studying data science at UCSD
+1. Studying machine learning + distributed data systems at UCSD
 2. Interning at Palantir
 3. Tinkering with Rust
 
