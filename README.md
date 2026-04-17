@@ -4,6 +4,7 @@ At the moment, I am:
 3. Tinkering with Rust
 
 Past Projects:
+- [Apex](https://github.com/adityakakarla/apex) - Rust + egui desktop app that lets Claude Code vibecode courses for topics you want to learn about
 - [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi API calls
 - [Audio Visualizer](https://github.com/adityakakarla/audio-visualizer) - Rust CLI tool to visualize audio levels instantaneously
 - [Video-to-ASCII](https://github.com/adityakakarla/video-to-ascii) - Rust CLI tool to play videos in your terminal
