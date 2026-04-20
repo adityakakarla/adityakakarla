@@ -3,7 +3,7 @@ At the moment, I am:
 2. Tinkering with Rust
 
 Current Projects:
-- [Apex](https://github.com/adityakakarla/apex) - Rust + egui desktop app that lets Claude Code vibecode courses for topics you want to learn about
+- [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
 
 Past Projects:
 - [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi API calls
