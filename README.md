@@ -6,7 +6,9 @@ Current Projects:
 - [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
 
 Past Projects:
-- [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi API calls
+- [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi/F1 API calls
+- [Lumber](https://github.com/adityakakarla/lumber) - CLI tool to generate realistic-ish logs to learn bash/CLI skills
+- [Big File Thing](https://github.com/adityakakarla/big-files) - CLI tool that scans for big files + uses Gemini to recommend deletions
 - [Audio Visualizer](https://github.com/adityakakarla/audio-visualizer) - Rust CLI tool to visualize audio levels instantaneously
 - [Video-to-ASCII](https://github.com/adityakakarla/video-to-ascii) - Rust CLI tool to play videos in your terminal
 - [Audio Brightness Thing](https://github.com/adityakakarla/audio-brightness/tree/main) - Adjusts your brightness to match microphone levels
