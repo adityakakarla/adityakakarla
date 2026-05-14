@@ -2,10 +2,8 @@ At the moment, I am:
 1. Studying machine learning + distributed systems at UCSD
 2. Tinkering with Rust
 
-Current Projects:
-- [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
-
 Past Projects:
+- [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
 - [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi/F1 API calls
 - [Lumber](https://github.com/adityakakarla/lumber) - CLI tool to generate realistic-ish logs to learn bash/CLI skills
 - [Big File Thing](https://github.com/adityakakarla/big-files) - CLI tool that scans for big files + uses Gemini to recommend deletions
