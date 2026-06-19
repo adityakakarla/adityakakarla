@@ -1,6 +1,7 @@
 At the moment, I am:
 1. Studying machine learning + distributed systems at UCSD
 2. Tinkering with Rust
+3. Improving Spark's streaming infra at Databricks
 
 Past Projects:
 - [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
