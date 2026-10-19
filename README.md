@@ -3,6 +3,8 @@ At the moment, I am:
 2. Deploying AI systems for Central Valley businesses
 
 Past Projects:
+- [GovQwen](https://x.com/adityakakar1a/status/2110106320091414936?s=20) - a finetune of Qwen 3.5-4B that outperforms Fable/Astra on federal government tasks
+- [Startup Arena](https://www.startuparena.fyi) - Community-sourced evaluations of technical teams to join
 - [Apex](https://github.com/adityakakarla/apex-v2) - Rust + Svelte desktop app that lets Claude Code vibecode courses for topics you want to learn about
 - [Fuji](https://github.com/adityakakarla/fuji) - Rust CLI tool to auto-trade Kalshi F1 markets with a Grok agent hooked up with Kalshi/F1 API calls
 - [Lumber](https://github.com/adityakakarla/lumber) - CLI tool to generate realistic-ish logs to learn bash/CLI skills
